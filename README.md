@@ -34,5 +34,7 @@
 
 ![Index Page](https://github.com/Priyanshu-gaurav/JsonPowerDB/blob/main/images/screenshot/project.png)
 
+![Add Page](https://github.com/Priyanshu-gaurav/JsonPowerDB/blob/main/images/screenshot/project1.png)
+
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
