@@ -4,7 +4,7 @@
 
 
 ## "This project is about Making a school management System by using JsonPowerDB"
-### Its Not The full project/idea which is in my mind ... I want to add Many new features to it  But due to limited time of 4 hours i cannot able to finish it , But for now we can see how the project will look and have a brief idea of this project.. I will update this project within 2-3 days with its full functionality. 
+### Its Not The full project/idea which is in my mind ... I want to add Many new features to it  But due to limited time  i cannot able to finish it , But for now we can see how the project will look and have a brief idea of this project.. I will update this project within 2-3 days with its full functionality. 
 
 ## Some of its features will be :-
 - It will create a recored of all school staffs and students.
