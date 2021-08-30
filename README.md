@@ -8,8 +8,8 @@
 
 ## Some of its features will be :-
 - It will create a recored of all school staffs and students.
-- we can check and make changes to any record in a very effective manner
-- it can only be accessible by the person who is register in this 
+- we can check and make changes to any record in a very effective manner.
+- it can only be accessible by the person who has the access to it.
 
 ### Features Added:-
 - We can see details of the student with its roll-no.
