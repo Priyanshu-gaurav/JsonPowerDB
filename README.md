@@ -4,16 +4,17 @@
 
 
 ## "This project is about Making a school management System by using JsonPowerDB"
-### its Not The full project/idea which is in my mind ... I want to add Many new features to it  But due to limited time of 4 hours i cannot able to finish it , But for now we can see how the project will look and have a brief idea of this project.. I will update this project within 2-3 days with its full functionality. 
+### Its Not The full project/idea which is in my mind ... I want to add Many new features to it  But due to limited time of 4 hours i cannot able to finish it , But for now we can see how the project will look and have a brief idea of this project.. I will update this project within 2-3 days with its full functionality. 
 
 ## Some of its features will be :-
 - It will create a recored of all school staffs and students.
 - we can check and make changes to any record in a very effective manner
 - it can only be accessible by the person who is register in this 
 
-## features added:-
+### features added:-
 -We can see details of the student with its roll-no.
 -we can add more student to its database.
+
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
 ### About JsonPowerDB:
 
