@@ -11,9 +11,9 @@
 - we can check and make changes to any record in a very effective manner
 - it can only be accessible by the person who is register in this 
 
-### features added:-
--We can see details of the student with its roll-no.
--we can add more student to its database.
+### Features Added:-
+- We can see details of the student with its roll-no.
+- we can add more student to its database.
 
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
 ### About JsonPowerDB:
