@@ -4,8 +4,7 @@
 
 
 ## "This project is about Making a school management System by using JsonPowerDB"
-## its Not The full project/idea which is in my mind ... I want to add Many new features to it 
-## But we can see how the project will look and a brief idea of this project 
+## its Not The full project/idea which is in my mind ... I want to add Many new features to it  But we can see how the project will look and a brief idea of this project 
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
 ### About JsonPowerDB:
 
@@ -23,7 +22,7 @@
 
 
 
-![Index Page](https://github.com/Priyanshu-gaurav/JsonPowerDB/images/Screenshots/project.PNG)
+![Index Page](https://github.com/Priyanshu-gaurav/JsonPowerDB/images/screenshots/project.PNG)
 
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
