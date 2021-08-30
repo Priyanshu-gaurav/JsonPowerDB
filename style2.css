@@ -1,0 +1,53 @@
+body{
+    background: url("images/background.jpg");
+}
+
+h1{
+    color: tomato;
+    font-size: 100px;
+}
+
+.name{
+    font-size: 30px;
+    color: white;
+}
+
+.course{
+    font-size: 30px;
+    color: white;
+}
+
+.branch{
+    font-size: 30px;
+    color: white;
+}
+
+.roll-no{
+    font-size: 30px;
+    color: white;
+}
+
+.email{
+    font-size: 30px;
+    color: white;
+}
+
+.mobile{
+    font-size: 30px;
+    color: white;
+}
+
+.add-btn{
+    height: 40px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: tomato;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+.add-btn:hover{
+    background-color: rgb(75, 6, 6);
+    transition: all 0.5s ease;
+}
