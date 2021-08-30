@@ -22,7 +22,7 @@
 
 
 
-![Index Page](https://github.com/Priyanshu-gaurav/JsonPowerDB/images/screenshots/project.png)
+![Index Page](https://github.com/Priyanshu-gaurav/JsonPowerDB/blob/main/images/screenshot/project.png)
 
 
 [Documentation Link](http://login2explore.com/jpdb/docs.html)
